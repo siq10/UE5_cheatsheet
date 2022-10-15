@@ -18,3 +18,9 @@ SHIFT + drag - lock camera to dragged object
 
 END - snap selected object to floor (object below it)
 
+SHIFT + F2 - landscape editor mode
+
+] - increase brush size
+
+[ - decrease brush size
+
