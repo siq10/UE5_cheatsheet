@@ -24,3 +24,8 @@ SHIFT + F2 - landscape editor mode
 
 [ - decrease brush size
 
+ALT + 1 - set bookmark
+
+1 - go to bookmark
+
+
